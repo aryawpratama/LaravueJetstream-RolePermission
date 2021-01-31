@@ -11,7 +11,7 @@
 -
     Clone this repository `git clone https://github.com/aryawpratama/LaravueJetstream-RolePermission.git`.
 -
-    Rename the .env.examlpe to .env
+    Rename the `.env.examlpe` to `.env`
 -
     Configure database in the `.env` file.
 -    
