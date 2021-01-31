@@ -38,6 +38,9 @@
 - Inertia.js
 - Spatie 
 
+## Big thanks 
+
+[Ahmad Safar](https://github.com/faropedia)
 
 ## About Laravel
 
