@@ -20,7 +20,7 @@
     Run `npm install && npm run dev`.
  -   
     Enjoy this template .
- -   
+    
 ## Default Role available :
 -
     1. Admin
