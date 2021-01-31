@@ -11,6 +11,8 @@
 -
     Clone this repository `git clone https://github.com/aryawpratama/LaravueJetstream-RolePermission.git`.
 -
+    Rename the .env.examlpe to .env
+-
     Configure database in the `.env` file.
 -    
     Run `php artisan migrate --seed`.
@@ -28,6 +30,15 @@
     2. User
         Email : user@example.com
         Password : 12345678
+
+## This template included :
+
+- Jetstream
+- Vue.js v2
+- Inertia.js
+- Spatie 
+
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
