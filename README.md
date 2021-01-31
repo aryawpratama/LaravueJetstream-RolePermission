@@ -9,12 +9,12 @@
 
 ## Using this project template
 
-    1. Clone this repository `git clone https://github.com/aryawpratama/LaravueJetstream-RolePermission.git`.
-    2. Configure database in the `.env` file.
-    3. Run `php artisan migrate --seed`.
-    4. Run `composer install`.
-    5. Run `npm install && npm run dev`.
-    6. Enjoy this template .
+    Clone this repository `git clone https://github.com/aryawpratama/LaravueJetstream-RolePermission.git`.
+    Configure database in the `.env` file.
+    Run `php artisan migrate --seed`.
+    Run `composer install`.
+    Run `npm install && npm run dev`.
+    Enjoy this template .
     
 ## Default Role available :
     1. Admin
