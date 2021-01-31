@@ -22,15 +22,12 @@
     Enjoy this template .
     
 ## Default Role available :
--
     1. Admin
         Email : admin@example.com
         Password : 12345678
     2. User
         Email : user@example.com
         Password : 12345678
--
-
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
