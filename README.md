@@ -23,7 +23,7 @@
  -   
     Enjoy this template .
     
-## Default Role available :
+## Default Roles :
     1. Admin
         Email : admin@example.com
         Password : 12345678
