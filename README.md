@@ -14,6 +14,8 @@
     Rename the `.env.examlpe` to `.env`
 -
     Configure database in the `.env` file.
+-
+    Run `php artisan key:generate`.
 -    
     Run `php artisan migrate --seed`.
 -    
