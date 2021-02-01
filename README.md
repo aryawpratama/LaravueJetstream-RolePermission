@@ -17,7 +17,7 @@
 -    
     Run `php artisan migrate --seed`.
 -    
-    Run `composer install`.
+    Run `composer update`.
 -    
     Run `npm install && npm run dev`.
  -   
