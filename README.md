@@ -14,12 +14,12 @@
     Rename the `.env.examlpe` to `.env`
 -
     Configure database in the `.env` file.
+    -    
+    Run `composer update`.
 -
     Run `php artisan key:generate`.
 -    
     Run `php artisan migrate --seed`.
--    
-    Run `composer update`.
 -    
     Run `npm install && npm run dev`.
  -   
