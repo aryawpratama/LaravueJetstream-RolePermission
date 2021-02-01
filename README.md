@@ -14,7 +14,7 @@
     Rename the `.env.examlpe` to `.env`
 -
     Configure database in the `.env` file.
-    -    
+-    
     Run `composer update`.
 -
     Run `php artisan key:generate`.
